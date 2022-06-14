@@ -1,92 +1,36 @@
-<h1 align="center">
-  <a href="https://github.com/MrBirrd/ETH_AdvancedMachineLearning">
-    <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
-  </a>
-</h1>
-
-<div align="center">
-  Advanced Machine Learning ETH
-  <br />
-  <a href="#about"><strong>Explore the docs »</strong></a>
-  <br />
-  <br />
-  <a href="https://github.com/MrBirrd/ETH_AdvancedMachineLearning/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
-  ·
-  <a href="https://github.com/MrBirrd/ETH_AdvancedMachineLearning/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-  .
-  <a href="https://github.com/MrBirrd/ETH_AdvancedMachineLearning/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
-</div>
-
-<div align="center">
-<br />
-
-[![Project license](https://img.shields.io/github/license/MrBirrd/ETH_AdvancedMachineLearning.svg?style=flat-square)](LICENSE)
-
-[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/MrBirrd/ETH_AdvancedMachineLearning/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![code with love by MrBirrd](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-MrBirrd-ff1414.svg?style=flat-square)](https://github.com/MrBirrd)
-
-</div>
-
-<details open="open">
-<summary>Table of Contents</summary>
-
-- [About](#about)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Support](#support)
-- [Contributing](#contributing)
-- [License](#license)
-
-</details>
-
----
+# Advanced Machine Learning Projects
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+This repo contains the models used in the project part of the ETH course Advanced Machine Learning by Prof. Joachim M. Buhmann and Dr. Carlos Cotrini, taken in the fall semester 2021 (252-0535-00L). The goal of the course was to learn about advanced ML techniques like structured SVMs, Ensemble Methods, Deep Learning or non-parametric Bayesian methods and to get hands-on experience in three different projects. The projects were graded in a competitive manner. I ranked Top 10 out of over 200 Teams in all three competitions.
 
-
-
-### Built With
-
-> **[?]**
-> Please provide the technologies that are used in the project.
 
 ## Getting Started
 
 ### Prerequisites
 
-> **[?]**
-> What are the project requirements/dependencies?
+You need Python and Jupyter to run the files.
 
 ### Installation
-
-> **[?]**
-> Describe how to install and get started with the project.
+Just clone this repo with
+```
+git clone https://github.com/MrBirrd/ETH_AdvancedMachineLearning.git
+```
+Then go to the folder and install the requirements.
+```
+cd ETH_AdvancedMachineLearning
+pip install requirements.txt
+```
 
 ## Usage
 
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+Each project has its own folder with a Jupyter Notebook which shows the data processing, the model and evaluation.
+There are additional files if necessary.
+Please note that the original dataset cannot be provided in some cases due to privacy reasons.
 
-## Roadmap
+## Project Descriptions
+###Project 1
 
-See the [open issues](https://github.com/MrBirrd/ETH_AdvancedMachineLearning/issues) for a list of proposed features (and known issues).
-
-- [Top Feature Requests](https://github.com/MrBirrd/ETH_AdvancedMachineLearning/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/MrBirrd/ETH_AdvancedMachineLearning/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/MrBirrd/ETH_AdvancedMachineLearning/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Support
 
