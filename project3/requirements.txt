@@ -1,0 +1,8 @@
+keras==2.7.0
+numpy==1.21.4
+opencv_python==4.5.4.58
+scikit_image==0.19.3
+scikit_learn==1.1.1
+segmentation_models==1.0.1
+skimage==0.0
+tensorflow==2.7.0
