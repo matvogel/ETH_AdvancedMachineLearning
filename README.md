@@ -19,7 +19,7 @@ git clone https://github.com/MrBirrd/ETH_AdvancedMachineLearning.git
 Then go to the folder and install the requirements.
 ```
 cd ETH_AdvancedMachineLearning
-pip install requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Usage
@@ -27,30 +27,6 @@ pip install requirements.txt
 Each project has its own folder with a Jupyter Notebook which shows the data processing, the model and evaluation.
 There are additional files if necessary.
 Please note that the original dataset cannot be provided in some cases due to privacy reasons.
-
-## Project Descriptions
-###Project 1
-
-
-## Support
-
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub issues](https://github.com/MrBirrd/ETH_AdvancedMachineLearning/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/MrBirrd)
-
-
-## Contributing
-
-First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
-
-Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
-
-
 
 ## License
 
