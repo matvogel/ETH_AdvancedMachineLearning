@@ -28,9 +28,3 @@ Each project has its own folder with a Jupyter Notebook which shows the data pro
 There are additional files if necessary.
 Please note that the original dataset cannot be provided in some cases due to privacy reasons.
 
-## License
-
-This project is licensed under the **MIT license**.
-
-See [LICENSE](LICENSE) for more information.
-
